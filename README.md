@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wanjaperpetual
-- 👀 I’m interested in finacial technology
+- 👀 I’m interested in atrifical inteligence and machine learing
 - 🌱 I’m currently learning phyton
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me wanjaperpetual916@gmail.com
